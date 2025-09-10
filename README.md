@@ -4,4 +4,4 @@
 - Estudiante autodidacta de Rust.
 
 
-[Perfil personal](https://github.com/TheLazyFerret)
+[Cuenta personal](https://github.com/TheLazyFerret)
